@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+*.xls
+data/
+datasets/
+
+# Models
+*.pt
+*.pth
+*.h5
+*.pkl
+*.pickle
+*.joblib
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
