@@ -15,6 +15,7 @@ __pycache__/
 *.xls
 data/
 datasets/
+data1
 
 # Models
 *.pt
