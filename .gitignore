@@ -16,7 +16,7 @@ __pycache__/
 data/
 datasets/
 data1
-
+data_MNIST
 # Models
 *.pt
 *.pth
