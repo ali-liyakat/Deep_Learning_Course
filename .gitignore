@@ -17,6 +17,7 @@ data/
 datasets/
 data1
 data_MNIST
+images/
 # Models
 *.pt
 *.pth
